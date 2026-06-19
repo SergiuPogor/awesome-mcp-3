@@ -157,6 +157,7 @@ Each listed server is carefully reviewed to ensure it provides value to the MCP 
 
 - <img src="https://openstrategypartners.com/fileadmin/Bilder/logo/OSP_logo_colors_green1.png" height="14"/> [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools)<sup><sup>⭐</sup></sup> - a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.
 - <img src="https://cdn.simpleicons.org/fathom/9187FF" height="14"/> [Fathom Analytics](https://github.com/mackenly/mcp-fathom-analytics) - Access Fathom Analytics data and reports about your sites
+- <img src="https://avatars.githubusercontent.com/u/201139838" height="14"/> [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - <img src="https://www.svgrepo.com/show/475634/amazon-color.svg" height="14"/> [Amazon Product Advertising](https://github.com/jademind/mcp-amazon-paapi) - Wraps Amazon’s Product Advertising API 5.0, providing keyword search and ASIN lookup endpoints that return products with your Associate partner-tagged URLs.
 
 <br />
